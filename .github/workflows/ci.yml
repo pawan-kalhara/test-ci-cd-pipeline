@@ -23,3 +23,6 @@ jobs:
 
       - name: Run dummy application
         run: npm start
+        
+      - name: Show system info
+        run: systeminfo
