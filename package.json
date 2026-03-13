@@ -1,0 +1,10 @@
+{
+  "name": "dummy-ci-app",
+  "version": "1.0.0",
+  "description": "Simple CI/CD demo app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"No tests yet\""
+  }
+}
